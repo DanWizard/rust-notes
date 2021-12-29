@@ -1,0 +1,6 @@
+1. go to the dir you want to have your project in 
+
+2. type:
+
+cargo new [project name] --bin
+

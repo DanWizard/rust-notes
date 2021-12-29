@@ -1,0 +1,5 @@
+1. paste in the Cargo.toml
+
+2. run:
+
+cargo build
